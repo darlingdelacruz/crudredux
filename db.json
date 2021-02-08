@@ -1,0 +1,24 @@
+{
+  "productos": [
+    {
+      "nombre": "Macajai",
+      "precio": "20",
+      "id": 1
+    },
+    {
+      "nombre": "Exposicion 2",
+      "precio": 1,
+      "id": 2
+    },
+    {
+      "nombre": "Sopa de macaco",
+      "precio": 2,
+      "id": 3
+    },
+    {
+      "nombre": "Tareas",
+      "precio": 2,
+      "id": 4
+    }
+  ]
+}
